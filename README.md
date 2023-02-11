@@ -1,6 +1,6 @@
 # Sushi Restaurant Finder
 
-This is a GIS project that aims to help users find sushi restaurants around their current location. The website, built using HTML, JavaScript and React, presents a map powered by the Google Maps API, with the default view being the user's current location.
+This is a GIS project that aims to help users find sushi restaurants around their current location. The website, presents a map powered by the Google Maps API, with the default view being the user's current location.
 
 ## Map View
 
@@ -18,3 +18,7 @@ The website provides an intuitive and user-friendly interface, allowing users to
 Overall, this project combines the power of GIS and APIs to provide a valuable resource for those looking to enjoy some delicious sushi.
 
 Setup: run `npm i && npm start` to start the development server
+
+## Overview
+
+![A screenshot of the application](app-view.png)

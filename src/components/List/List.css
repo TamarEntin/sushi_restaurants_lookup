@@ -1,0 +1,32 @@
+.form-control {
+  margin: 1rem;
+  min-width: 120px;
+  margin-bottom: 30px;
+}
+
+.select-empty {
+  margin-top: 2rem;
+}
+
+.loading {
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  margin-bottom: 30px;
+  padding: 25px;
+}
+
+.margin-bottom {
+  margin-bottom: 30px;
+}
+
+.list {
+  margin-bottom: 30px;
+
+  height: 75vh;
+  overflow: auto;
+}
